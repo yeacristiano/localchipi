@@ -8,7 +8,7 @@
 
 <UL>						
 <LI> numero 1
-<LI> Segunda voz del menú
+<LI> Numero 2
 <LI> Tercera voz del menú
 </UL>
 
