@@ -6,8 +6,8 @@
 <body>
 <h1>Esta es mi pagina de ejercicios</h1>
 
-<UL>
-<LI> Primera voz del menú
+<UL>						
+<LI> numero 1
 <LI> Segunda voz del menú
 <LI> Tercera voz del menú
 </UL>
